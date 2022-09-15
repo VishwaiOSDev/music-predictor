@@ -1,6 +1,6 @@
 # Music Predictor
 
-A simple python program to suggest music based their age and gender. 
+A simple python program to suggest music based on age and gender. 
 
 ## Technology
 - Language: **Python 3.9**
